@@ -137,5 +137,4 @@ Stage details, durations, gates: [ROADMAP.md](ROADMAP.md).
 ---
 
 ## License
-
 MIT — see [LICENSE](LICENSE). The curriculum content is yours to adapt; the resources referenced belong to their authors.
